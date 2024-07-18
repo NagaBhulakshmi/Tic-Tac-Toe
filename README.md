@@ -1,0 +1,1 @@
+Tic Tac Toe A Tic Tac Toe game using HTML, CSS, and JavaScript is a web-based implementation of the classic game where two players take turns marking spaces in a 3x3 grid with their respective symbols, typically X and O.
